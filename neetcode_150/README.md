@@ -31,7 +31,10 @@
 
 | # | Platform | Problem | Difficulty | Status | Date |
 |---|---------|---------|------------|--------|------|
-|01 |Leetcode 49|[Group Anagrams](/neetcode_150/01_array_and_hashing/01_group_anagrams.md)|Med|✅|2026/10/24|
+|01 |Leetcode 49|[Group Anagrams](/neetcode_150/01_array_and_hashing/01_group_anagrams.md)|Leetcode Med|✅|2026/10/24|
+|02 |ABC206 C|[Swappable](/neetcode_150/01_array_and_hashing/02_abc_C_swappable)|ABC C|✅|2026/10/25|
+|03 |Leetcode 347|[Top K Frequent Elements](/neetcode_150/01_array_and_hashing/03_top_K_frequent_elements.md)|Leetcode Med|✅|2026/10/25|
+|04 |ABC233 D|[Count Interval](/neetcode_150/01_array_and_hashing/04_abc_d_count_interval)|ABC D|✅|2026/10/25|
 
 
 ## 02 Two Pointers
