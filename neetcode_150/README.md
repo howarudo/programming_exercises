@@ -1,4 +1,6 @@
-# Neetcode 150
+# Neetcode 150 plus
+
+Good DSA and competitive programming questions based on Neetcode 150 roadmap
 
 **Status legend:** ✅ solved on my own · ⚠️ solved with hints · ❌ missed / needs review
 
@@ -31,11 +33,14 @@
 
 | # | Platform | Problem | Difficulty | Status | Date |
 |---|---------|---------|------------|--------|------|
-|01 |Leetcode 49|[Group Anagrams](/neetcode_150/01_array_and_hashing/01_group_anagrams.md)|Leetcode Med|✅|2026/10/24|
-|02 |ABC206 C|[Swappable](/neetcode_150/01_array_and_hashing/02_abc_C_swappable)|ABC C|✅|2026/10/25|
-|03 |Leetcode 347|[Top K Frequent Elements](/neetcode_150/01_array_and_hashing/03_top_K_frequent_elements.md)|Leetcode Med|✅|2026/10/25|
-|04 |ABC233 D|[Count Interval](/neetcode_150/01_array_and_hashing/04_abc_d_count_interval)|ABC D|✅|2026/10/25|
-
+|001 |Leetcode 49|[Group Anagrams](neetcode_150/01_array_and_hashing/01.md)|Leetcode Med|✅|2026/10/24|
+|002 |ABC206 C|[Swappable](/neetcode_150/01_array_and_hashing/02.md)|ABC C|✅|2026/10/25|
+|003 |Leetcode 347|[Top K Frequent Elements](neetcode_150/01_array_and_hashing/03.md)|Leetcode Med|✅|2026/10/25|
+|004 |ABC233 D|[Count Interval](/neetcode_150/01_array_and_hashing/04.md)|ABC D|✅|2026/10/25|
+|005 |Leetcode 238|[Product of Array Except Self](neetcode_150/01_array_and_hashing/05.md)|Leetcode Med|✅|2026/10/25|
+|006 |ABC218 D|[Rectangles](/neetcode_150/01_array_and_hashing/06.md)|ABC D|✅|2026/10/26|
+|007 |Leetcode 36|[Sudoku](neetcode_150/01_array_and_hashing/06.md)|Leetcode Med|✅|2026/10/26|
+|008 |ABC159 D|[Banned K](/neetcode_150/01_array_and_hashing/08.md)|ABC D|✅|2026/10/26|
 
 ## 02 Two Pointers
 
