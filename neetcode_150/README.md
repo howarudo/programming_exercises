@@ -39,8 +39,11 @@ Good DSA and competitive programming questions based on Neetcode 150 roadmap
 |004 |ABC233 D|[Count Interval](/neetcode_150/01_array_and_hashing/04.md)|ABC D|✅|2026/10/25|
 |005 |Leetcode 238|[Product of Array Except Self](neetcode_150/01_array_and_hashing/05.md)|Leetcode Med|✅|2026/10/25|
 |006 |ABC218 D|[Rectangles](/neetcode_150/01_array_and_hashing/06.md)|ABC D|✅|2026/10/26|
-|007 |Leetcode 36|[Sudoku](neetcode_150/01_array_and_hashing/06.md)|Leetcode Med|✅|2026/10/26|
+|007 |Leetcode 36|[Sudoku](neetcode_150/01_array_and_hashing/07.md)|Leetcode Med|✅|2026/10/26|
 |008 |ABC159 D|[Banned K](/neetcode_150/01_array_and_hashing/08.md)|ABC D|✅|2026/10/26|
+|009 |ABC164 D|[Multiple of 2019](/neetcode_150/01_array_and_hashing/09.md)|ABC D|✅|2026/10/28|
+|010 |Leetcode 128|[Longest Consecutive Sequence](neetcode_150/01_array_and_hashing/10.md)|Leetcode Med|✅|2026/10/28|
+|011 |ABC146 E|[Rem of Sum is Num](/neetcode_150/01_array_and_hashing/10.md)|ABC E|⚠️|2026/10/28|
 
 ## 02 Two Pointers
 
